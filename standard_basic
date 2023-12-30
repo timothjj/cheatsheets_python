@@ -1,0 +1,33 @@
+# Python Basic Syntax
+
+## Variables
+
+'variable = "string"'
+
+## Lists
+
+'items = []'
+'items.append("item1")'
+### Output
+> ['item1']
+
+'items.clear()'
+### Output
+> []
+
+'items.append("item2")'
+'items.count("item2")'
+### Output
+> 1
+
+
+
+## Dictionaries
+
+'dict = {}'
+
+
+
+
+
+
